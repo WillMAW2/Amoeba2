@@ -1,2 +1,2 @@
 # Amoeba2
- Attempting a multiplayer cellular automata game
+ A party multiplayer free-for-all combat game with PCG elements
