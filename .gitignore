@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Fab asset folders
+Content/Fab/*
+
 # Compiled Object files
 *.slo
 *.lo
